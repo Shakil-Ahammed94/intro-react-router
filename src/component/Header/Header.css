@@ -1,0 +1,7 @@
+nav a{
+    margin-right: 100px;
+}
+
+nav a.active{
+    color: darkgoldenrod;
+}
